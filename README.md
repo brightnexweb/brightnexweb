@@ -10,11 +10,11 @@ Building powerful websites, web applications and digital solutions.
 
 ## 🧠 About BrightNexWeb
 
-**BrightNexWeb** is a digital development agency focused on building modern and scalable solutions.
+**BrightNexWeb** is a modern digital agency focused on building scalable and powerful digital products.
 
-We work with startups, entrepreneurs and businesses to build powerful digital products.
+We work with startups, entrepreneurs and businesses to create innovative solutions and high-performance platforms.
 
-### Our Services
+### 💼 Our Services
 
 ⚡ Custom Websites
 ⚡ Web Applications
@@ -22,7 +22,7 @@ We work with startups, entrepreneurs and businesses to build powerful digital pr
 ⚡ Automation Systems
 ⚡ Crypto & Web Tools
 
-Our goal is simple:
+Our mission is simple:
 
 > Build fast, modern and scalable digital solutions.
 
@@ -42,7 +42,7 @@ Our goal is simple:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 
@@ -76,8 +76,8 @@ Our goal is simple:
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://wa.me/YOUR_NUMBER">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
